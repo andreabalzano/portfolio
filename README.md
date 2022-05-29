@@ -1,5 +1,5 @@
 # portfolio
-Questo è il progetto del mio portfolio personale consultabile all'indirizzo http://andreabalzano.it
+Questo è il progetto del mio portfolio personale consultabile all'indirizzo https://andreabalzano.it
 Attualmente il portfolio è un sito molto basilare, ma in base alle mie nuove skills ed ai miei progetti verrà man mano aggiornato.
 Questo portfolio nel tempo rappresenterà sempre le mie conoscienze. 
 
